@@ -1,0 +1,14 @@
+[
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "color": "blue"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "color": "red"
+  }
+]
